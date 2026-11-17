@@ -1,0 +1,25 @@
+{"k": "v2||qwen_norm||Câu hỏi: Cho tôi biết doanh thu tuần này.", "v": "Doanh thu tuần này là bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Tuần rồi trung bình mổi đơn quán bán được nhiêu tiền vậy?", "v": "Tuần trước trung bình mỗi đơn quán bán được bao nhiêu tiền?"}
+{"k": "v2||qwen_norm||Câu hỏi: <ENT_0> tiền bán ca chiều là bnhiu?", "v": "<ENT_0> doanh thu ca chiều là bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Rieng ngay hom nay doanh thu quan la bao nhieu?", "v": "Riêng ngày hôm nay doanh thu quán là bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Tuần rồi 5 món bán chạy nhất là những món nàoo?", "v": "Tuần trước 5 món bán chạy nhất là những món nào?"}
+{"k": "v2||qwen_norm||Câu hỏi: Nhóm đồ dùng tháng <ENT_0> bán được bao nhiêu tiền?", "v": "Nhóm đồ dùng tháng <ENT_0> có doanh thu là bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Tháng 11 năm 2025, nhóm trà có mặt hàng nào bán được nhiều ly nhất?", "v": "Tháng 11 năm 2025, nhóm trà có mặt hàng nào bán được nhiều ly nhất?"}
+{"k": "v2||qwen_norm||Câu hỏi: Tháng <ENT_0> bán ra bao nhiêu cây Ống PVC Bình Minh D50 cây 4m?", "v": "Tháng <ENT_0> bán ra bao nhiêu cây Ống PVC Bình Minh D50 cây 4m?"}
+{"k": "v2||qwen_norm||Câu hỏi: Tháng <ENT_0> thợ Đoàn Bảo Phúc lãnh bao nhiêu tiền huê hồng?", "v": "Tháng <ENT_0> thợ Đoàn Bảo Phúc lãnh bao nhiêu tiền hoa hồng?"}
+{"k": "v2||qwen_norm||Câu hỏi: Từ đầu tháng này tới hết hnay, dthu cao hay thấp hơn cùng kỳ tháng trước mấy %?", "v": "Từ đầu tháng này tới hết hôm nay, doanh thu tăng hay giảm bao nhiêu phần trăm (%) so với cùng kỳ tháng trước?"}
+{"k": "v2||qwen_norm||Câu hỏi: Tháng <ENT_0> bán ra bao nhiêu cây Ống PVC Bình Minh D32 cây 4m?", "v": "Tháng <ENT_0> bán ra bao nhiêu cây Ống PVC Bình Minh D32 cây 4m?"}
+{"k": "v2||qwen_norm||Câu hỏi: Doanh thu của Bia Heineken 330ml trong tháng 7 năm 2025 là bao nhiêu?", "v": "Doanh thu của Bia Heineken 330ml trong tháng 7 năm 2025 là bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Hom ni quan duoc may don roi?", "v": "Hôm nay quán được mấy đơn rồi?"}
+{"k": "v2||qwen_norm||Câu hỏi: check jum, shop mik thang nay bn chiec SH Mode khac nhau zo sua hen", "v": "Cửa hàng mình tháng này bao nhiêu chiếc xe Mode khác nhau?"}
+{"k": "v2||qwen_norm||Câu hỏi: Thuốc kê đơn th này bán được bnhiu tiền gồi?", "v": "Thuốc kê đơn tháng này có doanh thu là bao nhiêu rồi?"}
+{"k": "v2||qwen_norm||Câu hỏi: Từ đầu năm tới hnay tiệm có bnhiu đơn hàng rồi?", "v": "Từ đầu năm tới hôm nay tiệm có bao nhiêu đơn hàng rồi?"}
+{"k": "v2||qwen_norm||Câu hỏi: trung binh moi don shop mik th<ENT_0> gia tri dc bnhiu z nhi", "v": "Trung bình mỗi đơn shop mình tháng <ENT_0> giá trị được bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Th<ENT_0> không tính xe quay lại bảo hành, bình quân 1 phiếu sửa hết bnhiu tiền?", "v": "Tháng <ENT_0> không tính xe quay lại bảo hành, bình quân 1 phiếu sửa hết bao nhiêu tiền?"}
+{"k": "v2||qwen_norm||Câu hỏi: Thang nay nhap cua ncc nao nhieu tien nhat z?", "v": "Tháng này nhập cửa nhà cung cấp nào nhiều tiền nhất?"}
+{"k": "v2||qwen_norm||Câu hỏi: Dthu bình quân mỗi đơn tuần trước là bnhiu z?", "v": "Bình quân mỗi đơn tuần trước là bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: So sánh <ENT_0>, <ENT_1> và <ENT_2> xem tháng nào cửa hàng bán đc nhiều tiền nhất", "v": "So sánh <ENT_0>, <ENT_1> và <ENT_2> xem tháng nào có doanh thu cao nhất?"}
+{"k": "v2||qwen_norm||Câu hỏi: Kể giúp dthu 3 tháng liền từ T<ENT_0> tới T<ENT_1>, theo thứ tự thời gian.", "v": "Doanh thu 3 tháng liền từ Tháng <ENT_0> tới Tháng <ENT_1>, theo thứ tự thời gian dưới dạng danh sách?"}
+{"k": "v2||qwen_norm||Câu hỏi: Nho xem <ENT_0> doanh thu tiem minh duoc bao nhieu?", "v": "Tháng <ENT_0> doanh thu tiệm mình được bao nhiêu?"}
+{"k": "v2||qwen_norm||Câu hỏi: Từ đầu năm tới hết hnay tiệm có tổng cộng bnhiu đh rồi?", "v": "Từ đầu năm tới hết hôm nay tiệm có tổng cộng bao nhiêu đơn hàng rồi?"}
+{"k": "v2||qwen_norm||Câu hỏi: T<ENT_0> trung bình mỗi đơn giá trị bnhiu?", "v": "Tháng <ENT_0> trung bình mỗi đơn giá trị bao nhiêu?"}

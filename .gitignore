@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+docker/models/
+huan_luyen/qwen9b/adapter_mix/adapter_model.safetensors
